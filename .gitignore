@@ -1,0 +1,6 @@
+/DisCardbot/
+/.venv/
+pycache/
+.env
+.mypy_cache/
+*.pycache
